@@ -31,6 +31,11 @@ img {
 	margin-right: auto;
 }
 
+div p {
+	font-size: 24px;
+	padding: 10px 0 0 10px;
+}
+
 div {
 	min-height: 125px;
 	padding: 20px;
@@ -50,11 +55,6 @@ div {
 	border-width: 0 0 2px 5px;
 }
 
-.red p {
-	font-size: 24px;
-	padding: 10px 0 0 10px;
-}
-
 .blue {
 	text-align: left;
 	background-color: #0000FF;
@@ -67,11 +67,6 @@ div {
 	color: #C4C4C4;
 }
 
-.blue p {
-	font-size: 24px;
-	padding: 10px 0 0 10px;
-}
-
 .yellow {
 	text-align: right;
 	background-color: #FFFF00;
@@ -80,21 +75,11 @@ div {
 	color: #707070;
 }
 
-.yellow p {
-	font-size: 24px;
-	padding: 10px 0 0 10px;
-}
-
 .green {
 	text-align: left;
 	background-color: #008500;
 	margin-right: 50px;
 	border-width: 2px 5px 0 0;
-}
-
-.green p {
-	font-size: 24px;
-	padding: 10px 0 0 10px;
 }
 
 footer{	
