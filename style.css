@@ -31,6 +31,11 @@ img {
 	margin-right: auto;
 }
 
+div p {
+	font-size: 24px;
+	padding: 10px 0 0 10px;
+}
+
 div {
 	min-height: 125px;
 	padding: 20px;
@@ -75,11 +80,6 @@ div {
 	background-color: #008500;
 	margin-right: 50px;
 	border-width: 2px 5px 0 0;
-}
-
-div p{
-	font-size: 24px;
-	padding: 10px 0 0 10px;
 }
 
 footer{	
